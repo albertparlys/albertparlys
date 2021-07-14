@@ -42,6 +42,14 @@
 
 ---
 
+### 📕 Latest Tweets
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
+
+➡️ [more tweets ...](https://twitter.com/albertparlys)
+
+---
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
