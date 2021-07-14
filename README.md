@@ -1,7 +1,7 @@
-### Hi there, I'm Albert Parlys - [albertparlys][website] 👋
+### Hi there, I'm Albert Parlys - [www.albertparlys.com][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?down_color=red&down_message=DOWN&label=albertparlys.com&style=for-the-badge&up_color=white&up_message=UP&url=https%3A%2F%2Fwww.albertparlys.com)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/albertparlys?style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/albertparlys&screen_name=albertparlys)
 
 <!-- ## I'm a Husband, Father, Developer, and Teacher!!
 
@@ -82,9 +82,11 @@
 </details>
 
 ### Stats
-[![Albert Parlys's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertparlys&show_icons=true&theme=dracula&text_color=#FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertparlys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Albert Parlys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=albertparlys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats-pearl-five.vercel.app/api?username=albertparlys&show_icons=true&theme=dracula&text_color=#FFFFFF)" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-pearl-five.vercel.app/api/top-langs/?username=albertparlys&layout=compact)" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-pearl-five.vercel.app/api/wakatime?username=albertparlys&layout=compact)" /></a>
 
 
 
