@@ -3,13 +3,12 @@
 [![Website](https://img.shields.io/website?down_color=red&down_message=DOWN&label=albertparlys.com&style=for-the-badge&up_color=white&up_message=UP&url=https%3A%2F%2Fwww.albertparlys.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/albertparlys?style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/albertparlys&screen_name=albertparlys)
 
-<!-- ## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Data Scientist!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums -->
+- 🔭 I’m currently working on Town Management as Spatial Data Science
+- 🌱 I’m currently learning python, machine learning, and modeling
+- 👯 I’m looking to collaborate on spatial-related data model and application 
+- ⚡ Fun fact: my undegraduate thesis in Electrical Engineer is Convolutional Neural Network in Music Categorization 😎
 
 <!-- ### Spotify Playing 🎧
 
