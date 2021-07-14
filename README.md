@@ -83,7 +83,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertparlys)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apialbertparlysanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
