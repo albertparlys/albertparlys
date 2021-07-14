@@ -85,8 +85,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=albertparlys&show_icons=true&theme=dracula&text_color=#FFFFFF)" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertparlys&layout=compact)" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=albertparlys&layout=compact)" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertparlys&layout=compact&show_icons=true&theme=dracula&text_color=#FFFFFF)" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=albertparlys&layout=compact&show_icons=true&theme=dracula&text_color=#FFFFFF)" /></a>
 
 
 
