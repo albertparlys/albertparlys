@@ -48,6 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PPT ALBERT](https://www.youtube.com/watch?v=SESqj7tIz34)
+- [(TI 2018) Keen Gaming vs iG.V](https://www.youtube.com/watch?v=nR7-xMjHuXQ)
+- [Mobile Legends - NOOB ROAD TO EPIC](https://www.youtube.com/watch?v=TXNwDjgLZyg)
+- [Albert Parlys | #HuaweiIndonesiaIntern2016 #huaweiIndoneisacsr #generasihightech](https://www.youtube.com/watch?v=LJjKmbQITPo)
+- [HCNA2016 Albert Parlys Tambunan #hcna2106 #huaweiIndonesiacsr #generasihightech](https://www.youtube.com/watch?v=GkfykUNpdD4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCmqAlJqQHp8xjfq2osYBF_w)
@@ -67,6 +72,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#23](https://github.com/albertparlys/pjulv/pull/23) in [albertparlys/pjulv](https://github.com/albertparlys/pjulv)
+2. 🎉 Merged PR [#21](https://github.com/albertparlys/pjulv/pull/21) in [albertparlys/pjulv](https://github.com/albertparlys/pjulv)
+3. 🎉 Merged PR [#6](https://github.com/albertparlys/pjulv/pull/6) in [albertparlys/pjulv](https://github.com/albertparlys/pjulv)
+4. 🎉 Merged PR [#3](https://github.com/albertparlys/pjulv/pull/3) in [albertparlys/pjulv](https://github.com/albertparlys/pjulv)
+5. 🎉 Merged PR [#1](https://github.com/albertparlys/pjulv/pull/1) in [albertparlys/pjulv](https://github.com/albertparlys/pjulv)
 <!--END_SECTION:activity-->
 
 </details>
