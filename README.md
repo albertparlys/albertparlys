@@ -15,7 +15,7 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://now-playing-albertparlys.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/albertparlys)
+&nbsp; <br> [![Spotify](https://now-playing-albertparlys.vercel.app/api/spotify)](https://open.spotify.com/user/albertparlys)
 
   </td>
   <td width="50%">
