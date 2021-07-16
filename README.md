@@ -62,11 +62,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: Bukalapak 🔥🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a66b79d710089b61d268e2ca157c1c883dcc)
 - [@albertparlys: Udah siap ngantor, ternyata gak boleh masuk 🤣](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a66a7ade100a9164d46fe6ca16791d823ec3)
 - [@albertparlys: Lupa matiin server, jajan berkurang 😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a66a7fdf130b9363d569e5cb127f12893cc7)
 - [@albertparlys: Kembali menabung untuk checkout keranjang virtual](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a66a7cd7130d9360d06ae4c714731c8a32c2)
 - [@albertparlys: 1 coin dibagi 1100. Ibarat kue, gak kenyang.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a66a7cdd160d9068d06fe2cb1772158d33c3)
-- [@albertparlys: Kafkaesque](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a66a7ddd1c0a9166d06ee3cb1a7811893dc0)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
