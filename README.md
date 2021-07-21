@@ -113,7 +113,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=albertparlys&show_icons=true&theme=dracula&text_color=#FFFFFF)" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertparlys&layout=compact&show_icons=true&theme=dracula&text_color=#FFFFFF)" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="http://github-readme-stats.vercel.app/api/wakatime?username=albertparlys&range=last_60_days&layout=compact)" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="http://github-readme-stats.vercel.app/api/wakatime?username=albertparlys&layout=compact&theme=dracula&text_color=#FFFFFF&custom_title=Albert%20Parlys%27s%20Wakatime)" /></a>
 
 
 [website]: https://albertparlys.com
