@@ -24,6 +24,7 @@
   [![GitHub Sponsors](https://img.shields.io/github/sponsors/albertparlys?style=social)](https://github.com/albertparlys)
   [![GitHub followers](https://img.shields.io/github/followers/albertparlys?style=social)](https://github.com/albertparlys)
   [![GitHub watchers](https://img.shields.io/github/watchers/albertparlys/albertparlys?label=Visits&style=social)](https://github.com/albertparlys)
+  [![wakatime](https://wakatime.com/badge/github/albertparlys/albertparlys.svg)](https://wakatime.com/badge/github/albertparlys/albertparlys)
 </p>
   </td>
   </table>
@@ -114,6 +115,8 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertparlys&layout=compact&show_icons=true&theme=dracula&text_color=#FFFFFF)" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=albertparlys&layout=compact&show_icons=true&theme=dracula&text_color=#FFFFFF)" /></a>
+
+<br>[![wakatime](https://wakatime.com/badge/github/albertparlys/albertparlys.svg)](https://wakatime.com/badge/github/albertparlys/albertparlys)
 
 [website]: https://albertparlys.com
 [course]: http://vsCodeHero.com
