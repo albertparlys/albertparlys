@@ -113,7 +113,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=albertparlys&show_icons=true&theme=dracula&text_color=#FFFFFF)" />
 </a>
 <a href="https://github.com/albertparlys/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertparlys&layout=compact&show_icons=true&theme=dracula&text_color=#FFFFFF)" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@albertparlys/d3835728-37e1-4ef1-b1c9-d0d28a277a9a.png" /></a>
+<a href="https://wakatime.com"><img align="left" alt"https://github.com/albertparlys" width="540px" src="https://wakatime.com/share/@albertparlys/d3835728-37e1-4ef1-b1c9-d0d28a277a9a.png" /></a>
 
 
 [website]: https://albertparlys.com
