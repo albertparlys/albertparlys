@@ -1,6 +1,6 @@
 ### Hi there, I'm Albert Parlys - [www.albertparlys.com][website] 👋
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=DOWN&label=albertparlys.com&style=for-the-badge&up_color=white&up_message=UP&url=https%3A%2F%2Fwww.albertparlys.com)][website]
+[![Website](https://img.shields.io/website?down_color=RED&down_message=DOWN&label=ALBERTPARLYS.COM&up_color=GREEN&up_message=UP&url=https%3A%2F%2Falbertparlys.com%2F)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/albertparlys?style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/albertparlys&screen_name=albertparlys)
 
 ## I'm a Data Scientist!!
