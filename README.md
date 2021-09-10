@@ -62,11 +62,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: Kenapa engga bisa tidur? 🤤](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a6697bdf17069a67d368e7c6167c158b3fc6)
+- [@albertparlys: Ter je bak](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a66978d61c089263d06ee9cb1b7f148232cd)
 - [@albertparlys: Iseng-iseng berhadiah](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a66878d61d0f9160d56ee2c3177a178b32c6)
 - [@albertparlys: has joined Anti Covid-19 Club.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a66879d91d0b9a62d16de2c5127f14823bc4)
 - [@albertparlys: Survei lokasi vaksinasi, udah kayak survei ujian sbmptn](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a6687ed7110d9b62d461e4c710781d8238c3)
-- [@albertparlys: Today I coded 9 mins towards my @WakaTime goal of coding 1 hr per day.  #301DaysOfCode #code #LearnToCode #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a6687ddb16079b64d76ee8cb1473158c32c6)
-- [@RomeenSheth: Early career years are painful. You feel like an idiot 98% of the time - lost, confused and insecure. I wish I had a cheat sheet of principles for my first job. So I put one together. Here are 20 things about building a career I wish I knew sooner:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2d30bfe4c7ecb41280926f88f10ba4482c9bc169f7a06a7cd8140a9563d169e4c1117b1c893b)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
