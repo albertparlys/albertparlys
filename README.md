@@ -62,11 +62,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@WidasSatyo: #OleOUT](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2836b6e0d1d1860e9c8928d4f61eb1492ac7df6cf7a36d78d9170a9a69d360e4c31a7a108e)
 - [@RomeenSheth: I interviewed 100 legendary investors, founders and executives. Collectively, they have created over $1 trillion of value for the world. Here are 20 practical career lessons they shared with me 👇👇👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2d30bfe4c7ecb41280926f88f10ba4482c9bc169f7a66b7cd61d0b9a62d56ee3c31b7a128a3c)
 - [@albertparlys: Pagi terlemes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a6697ad9140e9662d16de9c5107e178c3dc4)
 - [@albertparlys: Dududududu gakjadi ganti senar](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a6697adb14079364d661e2c71a7b15883fc2)
 - [@albertparlys: Lumayan jalan banyak](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a6697bdc170d9361dd61e4cb137f138b3bcc)
-- [@albertparlys: Kenapa engga bisa tidur? 🤤](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a6697bdf17069a67d368e7c6167c158b3fc6)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
