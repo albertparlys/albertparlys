@@ -62,11 +62,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: Today I coded 27 mins towards my @WakaTime goal of coding 1 hr per day.  #301DaysOfCode #code #LearnToCode #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a66e75dc170d9460d261e1c0127211883dc5)
+- [@albertparlys: Back to 2000's 🤣](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a66e75dd12079567d46de8c4167e138232c2)
 - [@albertparlys: Today I coded 1 hr 7 mins towards my @WakaTime goal of coding 1 hr per day.  ✔️ #301DaysOfCode #code #LearnToCode #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a66e7ad6130f9062d56ee5c2167b118e3bc2)
 - [@albertparlys: Today I coded 1 hr 8 mins towards my @WakaTime goal of coding 1 hr per day.  ✔️ #301DaysOfCode #code #LearnToCode #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a66e7ad914089a63d769e4ca117a128e3fc1)
 - [@albertparlys: Today I coded 3 mins towards my @WakaTime goal of coding 1 hr per day.  #301DaysOfCode #code #LearnToCode #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a66e7bde11079068d76fe6c0127d1c8833c2)
-- [@WidasSatyo: #OleOUT](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2836b6e0d1d1860e9c8928d4f61eb1492ac7df6cf7a36d78d9170a9a69d360e4c31a7a108e)
-- [@RomeenSheth: I interviewed 100 legendary investors, founders and executives. Collectively, they have created over $1 trillion of value for the world. Here are 20 practical career lessons they shared with me 👇👇👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2d30bfe4c7ecb41280926f88f10ba4482c9bc169f7a66b7cd61d0b9a62d56ee3c31b7a128a3c)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
