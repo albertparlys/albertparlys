@@ -76,7 +76,7 @@
 
 <!-- YOUTUBE:START -->
 - [PPT ALBERT](https://www.youtube.com/watch?v=SESqj7tIz34)
-- [(TI 2018) Keen Gaming vs iG.V](https://www.youtube.com/watch?v=nR7-xMjHuXQ)
+- [&lpar;TI 2018&rpar; Keen Gaming vs iG.V](https://www.youtube.com/watch?v=nR7-xMjHuXQ)
 - [Mobile Legends - NOOB ROAD TO EPIC](https://www.youtube.com/watch?v=TXNwDjgLZyg)
 - [Albert Parlys | #HuaweiIndonesiaIntern2016 #huaweiIndoneisacsr #generasihightech](https://www.youtube.com/watch?v=LJjKmbQITPo)
 - [HCNA2016 Albert Parlys Tambunan #hcna2106 #huaweiIndonesiacsr #generasihightech](https://www.youtube.com/watch?v=GkfykUNpdD4)
