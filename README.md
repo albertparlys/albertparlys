@@ -62,11 +62,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: Udah gakbisa nganggep2 jakarta coret :&lpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a6637edb100c9a67d56ee2c2127f118d32c3)
+- [@albertparlys: Provinsi Bogor raya:Kota/Kab BekasiKota DepokKota/Kab BogorKota/Kab SukabumiKab Cianjur.....](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a6637edb100c9a66dd60e7c2127e138d3bc5)
 - [@albertparlys: Bah bisa gak nih 3 weeks notice](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a6637dd8160f9069d06ee1c1137a158238c3)
 - [@albertparlys: Petjah](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a66274de1c069462d06ae0cb1372168338c7)
 - [@albertparlys: Gempa nich](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a6627cd615099066d36ee5c5117f158b3ecd)
-- [@albertparlys: Today I coded 1 hr 12 mins towards my @WakaTime goal of coding 1 hr per day.  ✔️ #301DaysOfCode #code #LearnToCode #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a66d7fd6130a9369d368e9c11b78118938c7)
-- [@albertparlys: Today I coded 12 mins towards my @WakaTime goal of coding 1 hr per day.  #301DaysOfCode #code #LearnToCode #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a66c75d916099762dd6fe1c01a78108d33cc)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
