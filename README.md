@@ -62,11 +62,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a6637add170e9360dd6fe8c5177c138939cc)
 - [@albertparlys: Lancarr 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a6637bd9120c9667d26de5c2157d178d3fcd)
 - [@albertparlys: Udah gakbisa nganggep2 jakarta coret :&lpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a6637edb100c9a67d56ee2c2127f118d32c3)
 - [@albertparlys: Provinsi Bogor raya:Kota/Kab BekasiKota DepokKota/Kab BogorKota/Kab SukabumiKab Cianjur.....](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a6637edb100c9a66dd60e7c2127e138d3bc5)
 - [@albertparlys: Bah bisa gak nih 3 weeks notice](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a6637dd8160f9069d06ee1c1137a158238c3)
-- [@albertparlys: Petjah](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a66274de1c069462d06ae0cb1372168338c7)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
