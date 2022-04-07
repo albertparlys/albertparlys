@@ -62,11 +62,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: Today I coded 3 hrs 57 mins towards my @WakaTime goal of coding 1 hr per day.  ✔️ #301DaysOfCode #code #LearnToCode #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76b7cdc1c079269dd68e9c7137e168c3cc6)
+- [@albertparlys: Deras sekali. Jalan udah seperti sungai.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76b7cdd130a9767d169e0c6167f11883acd)
 - [@albertparlys: Today I coded 38 mins towards my @WakaTime goal of coding 1 hr per day.  #301DaysOfCode #code #LearnToCode #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76b7ddc140e9363d76de3c7167b12893ac7)
 - [@albertparlys: Today I coded 20 mins towards my @WakaTime goal of coding 1 hr per day.  #301DaysOfCode #code #LearnToCode #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76a74da13099165d36ee8c51472168a3dc7)
 - [@albertparlys: Reclaim. digital. footprint](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76a75de160e9b61d460e4c616781c8f3bc5)
-- [@albertparlys: Today I coded 56 mins towards my @WakaTime goal of coding 1 hr per day.  #301DaysOfCode #code #LearnToCode #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76a7bdc150b9467d56ae6c51a781c833ec7)
-- [@albertparlys:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a6637add170e9360dd6fe8c5177c138939cc)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
