@@ -62,11 +62,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: Chic choc makin dikit isinya 😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76f7bdd1d079b66dd68e2c7177c1d823bc1)
 - [@albertparlys: menunggu varian covid pisces](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76f79de16079b64dd6de9c7137a178d3bc5)
 - [@albertparlys: Banyak bgt tech yg mau diimplemen](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76f7ed810069662dc69e2c0137d138a3dcc)
 - [@albertparlys: kasian para gamers](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76f7eda1c0b9061d268e6c611791d8d3bc4)
 - [@albertparlys: Belum ada 5 bulan...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76f7cd71d0a9468dd6be3c31b7b128d32c5)
-- [@albertparlys: Kalau ngalah terus sama preman, kapan majunya...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76f7ddc140f9462d360e6ca137c158a38c3)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
