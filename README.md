@@ -62,11 +62,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: Today’s the start of my weekly @WakaTime goal, where I’ll be coding 30 hrs per week.  #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76c7fd8100b9b62d768e0c3147a178a33c1)
 - [@albertparlys: Work faster 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76f7adc100c9069d36be6c51278108c3ec7)
 - [@albertparlys: Chic choc makin dikit isinya 😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76f7bdd1d079b66dd68e2c7177c1d823bc1)
 - [@albertparlys: menunggu varian covid pisces](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76f79de16079b64dd6de9c7137a178d3bc5)
 - [@albertparlys: Banyak bgt tech yg mau diimplemen](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76f7ed810069662dc69e2c0137d138a3dcc)
-- [@albertparlys: kasian para gamers](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76f7eda1c0b9061d268e6c611791d8d3bc4)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
