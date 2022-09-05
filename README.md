@@ -62,11 +62,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: Hadeh pemda jateng yg kena](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76c7bdb17069b63d768e1c51a7d1c8f3ac3)
+- [@albertparlys: Internetan di tengah laut](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76c7bdd130e9761dc6de7c01079118d3dc1)
 - [@albertparlys: Sterling gokil juga ya, udah pernah main di 3 Big](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76c78d9130c9462dc68e0cb1079108b3dc1)
 - [@albertparlys: from Wed Aug 24 until Tue Aug 30 I coded 22 hrs 33 mins towards my @WakaTime goal of coding 30 hrs per week.  #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76c78df160d9162d56ae1c51a7e178e3dcd)
 - [@albertparlys: Today’s the start of my weekly @WakaTime goal, where I’ll be coding 30 hrs per week.  #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76c7fd8100b9b62d768e0c3147a178a33c1)
-- [@albertparlys: Work faster 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76f7adc100c9069d36be6c51278108c3ec7)
-- [@albertparlys: Chic choc makin dikit isinya 😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76f7bdd1d079b66dd68e2c7177c1d823bc1)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
