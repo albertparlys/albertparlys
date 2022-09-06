@@ -116,6 +116,16 @@
 <!-- <a href="https://wakatime.com"><img align="left" alt"https://github.com/albertparlys" width="540px" src="https://wakatime.com/share/@albertparlys/d3835728-37e1-4ef1-b1c9-d0d28a277a9a.png" /></a> -->
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 514 hrs 27 mins
+
+Dart          160 hrs         ███████░░░░░░░░░░░░░░░░░░   28.31 %
+Python        133 hrs 48 mins ██████░░░░░░░░░░░░░░░░░░░   23.67 %
+Java          59 hrs 54 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
+Other         50 hrs 46 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+```
+
 <!--END_SECTION:waka-->
 
 
