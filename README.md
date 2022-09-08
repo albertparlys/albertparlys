@@ -62,11 +62,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: from Wed Aug 31 until Tue Sep 06 I coded 32 hrs 59 mins towards my @WakaTime goal of coding 30 hrs per week.  ✔️ #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76c7ada11079065d160e5c01a7f118a33c1)
 - [@albertparlys: Tukang tambal ban baru buka jam 7 😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76c7bd6170f9b61d06fe7c4137a10883bc1)
 - [@albertparlys: Hadeh pemda jateng yg kena](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76c7bdb17069b63d768e1c51a7d1c8f3ac3)
 - [@albertparlys: Internetan di tengah laut](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76c7bdd130e9761dc6de7c01079118d3dc1)
 - [@albertparlys: Sterling gokil juga ya, udah pernah main di 3 Big](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76c78d9130c9462dc68e0cb1079108b3dc1)
-- [@albertparlys: from Wed Aug 24 until Tue Aug 30 I coded 22 hrs 33 mins towards my @WakaTime goal of coding 30 hrs per week.  #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76c78df160d9162d56ae1c51a7e178e3dcd)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
