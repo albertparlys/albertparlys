@@ -5,7 +5,8 @@
 
 ## I'm a Data Scientist!!
 
-- 🔭 I’m currently working on Town Management as Spatial Data Science
+- 🏢 I’m currently working on Coordinating Ministry of Maritime and Invesment Affairs as Full Stack Developer
+- 🔭 I had experience working on Town Management as Spatial Data Science
 - 🌱 I’m currently learning python, machine learning, and modeling
 - 👯 I’m looking to collaborate on spatial-related data model and application 
 - ⚡ Fun fact: my undegraduate thesis in Electrical Engineer is Convolutional Neural Network in Music Categorization 😎
