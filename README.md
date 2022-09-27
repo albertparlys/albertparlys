@@ -63,11 +63,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: Lebih baik buat training + SOP hell 2 tahun sampe pegawai seumur hidup jago jalanin sendiri, atau hire timsus 5 tahun ngacangin pegawai seumur hidup?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d7eda150d9468d26be9c2177d17823dcc)
 - [@albertparlys: Ajari aku java spring boot 😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d7fd611079a63d56ae6cb157f138e32c5)
 - [@albertparlys: from Wed Sep 14 until Tue Sep 20 I coded 15 hrs 26 mins towards my @WakaTime goal of coding 30 hrs per week.  #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d7fd9170e9468d46fe7cb117c118c3fc1)
 - [@albertparlys: META = Most Effective Tactic Available](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d7fde1d089468d56ee8c41b72138333cc)
 - [@albertparlys: from Wed Sep 07 until Tue Sep 13 I coded 21 hrs 52 mins towards my @WakaTime goal of coding 30 hrs per week.  #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d7ddf1d0a9169dd6de8c4167f168a3ac6)
-- [@albertparlys: from Wed Aug 31 until Tue Sep 06 I coded 32 hrs 59 mins towards my @WakaTime goal of coding 30 hrs per week.  ✔️ #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76c7ada11079065d160e5c01a7f118a33c1)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
