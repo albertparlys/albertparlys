@@ -63,11 +63,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: Kacamata ampe patah hehehe](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d78d813069661d66ae1ca1278178933c5)
 - [@albertparlys: from Wed Sep 21 until Tue Sep 27 I coded 37 hrs 27 mins towards my @WakaTime goal of coding 30 hrs per week.  ✔️ #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d78de12079563d069e8ca107f16833acc)
 - [@albertparlys: Deploy, deploy, deploy](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d78df120e9666d76be7c2107a178e3bc1)
 - [@albertparlys: Lebih baik buat training + SOP hell 2 tahun sampe pegawai seumur hidup jago jalanin sendiri, atau hire timsus 5 tahun ngacangin pegawai seumur hidup?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d7eda150d9468d26be9c2177d17823dcc)
 - [@albertparlys: Ajari aku java spring boot 😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d7fd611079a63d56ae6cb157f138e32c5)
-- [@albertparlys: from Wed Sep 14 until Tue Sep 20 I coded 15 hrs 26 mins towards my @WakaTime goal of coding 30 hrs per week.  #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d7fd9170e9468d46fe7cb117c118c3fc1)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
