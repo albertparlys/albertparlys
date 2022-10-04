@@ -63,11 +63,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: Double Hat-Trick. Ini dah kayak main fifa aje](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d7bda1c0e9162d46ae6ca167e178c3dc7)
+- [@albertparlys: Buset udah 4-0 aja](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d7bda12069163d26ae5c3167a178d38c7)
+- [@GOAL_ID: Segenap redaksi GOAL Indonesia menyampaikan duka cita yang mendalam untuk para korban Tragedi Kanjuruhan 🥀Mari kita panjatkan doa untuk para korban dan keluarga yang ditinggalkan.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e381093cdfdcba355969266d3f70cea0d6cdfd86bfaa1697dd814099066d56fe3cb14)
+- [@albertparlys: Semoga berkah amin](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d7bdf1d079663d66ee7c2107e148a3ac7)
 - [@albertparlys: Kacamata ampe patah hehehe](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d78d813069661d66ae1ca1278178933c5)
-- [@albertparlys: from Wed Sep 21 until Tue Sep 27 I coded 37 hrs 27 mins towards my @WakaTime goal of coding 30 hrs per week.  ✔️ #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d78de12079563d069e8ca107f16833acc)
-- [@albertparlys: Deploy, deploy, deploy](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d78df120e9666d76be7c2107a178e3bc1)
-- [@albertparlys: Lebih baik buat training + SOP hell 2 tahun sampe pegawai seumur hidup jago jalanin sendiri, atau hire timsus 5 tahun ngacangin pegawai seumur hidup?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d7eda150d9468d26be9c2177d17823dcc)
-- [@albertparlys: Ajari aku java spring boot 😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d7fd611079a63d56ae6cb157f138e32c5)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
