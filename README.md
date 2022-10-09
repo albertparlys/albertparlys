@@ -63,11 +63,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: Hari ngebut course 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d75da15079266d660e5c01572178f3cc7)
 - [@albertparlys: from Wed Sep 28 until Tue Oct 04 I coded 26 hrs 51 mins towards my @WakaTime goal of coding 30 hrs per week.  #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d7ad8140a9162dd6be3c2157f138e39cc)
 - [@albertparlys: Double Hat-Trick. Ini dah kayak main fifa aje](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d7bda1c0e9162d46ae6ca167e178c3dc7)
 - [@albertparlys: Buset udah 4-0 aja](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d7bda12069163d26ae5c3167a178d38c7)
 - [@GOAL_ID: Segenap redaksi GOAL Indonesia menyampaikan duka cita yang mendalam untuk para korban Tragedi Kanjuruhan 🥀Mari kita panjatkan doa untuk para korban dan keluarga yang ditinggalkan.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e381093cdfdcba355969266d3f70cea0d6cdfd86bfaa1697dd814099066d56fe3cb14)
-- [@albertparlys: Semoga berkah amin](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d7bdf1d079663d66ee7c2107e148a3ac7)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
