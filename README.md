@@ -63,11 +63,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: semoga delivered 😅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a7627ede150d9a60d16ce1c11a7c178c32c1)
+- [@albertparlys: ada juga yak orang berani ambil data public + copasan source codenya buat final project? 😮‍💨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a7627edf1c0a9464d36ee9ca137a1c8c33c1)
 - [@albertparlys: from Wed Oct 12 until Tue Oct 18 I coded 22 hrs 20 mins towards my @WakaTime goal of coding 30 hrs per week.  #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a7627fd813079a66d66be8c213791c8a38c7)
 - [@albertparlys: seharian ngebut final project buat training 😮‍💨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a7627fd8130f9569d06fe2c5167f16883ac1)
 - [@albertparlys: Go!Go!Go! GNU for indonesia 🔥🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a7627cdd110a9767d66ce7c412791c8b38c7)
-- [@albertparlys: from Wed Oct 05 until Tue Oct 11 I coded 34 hrs 31 mins towards my @WakaTime goal of coding 30 hrs per week.  ✔️ #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a7627ddd100e9a65d268e9c41a72168b38c6)
-- [@albertparlys: Hari ngebut course 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d75da15079266d660e5c01572178f3cc7)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
