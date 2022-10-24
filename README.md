@@ -63,11 +63,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: Gila sih the best series.#TI11 #Liquid #ThunderAwaken](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76279de1c099361d468e0c1177a17893acd)
+- [@dota2ti: Matu to the rescue! What an end to what a series! #TI11](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b30a6e090f68e55969266d3f70cea0d6cd0da69fba76f75de1c0f9269dd60e1cb14)
+- [@TeamLiquid: There are no words 🙌See you next weekend.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b3ab3eceeeb960f8c8228d4f61eb1492ac7df6dfba66b75df12069362d46de4c01078148f)
 - [@albertparlys: Github action mantep abis](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a7627edd1d069568d06ae5c4167d108b3bc5)
 - [@albertparlys: semoga delivered 😅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a7627ede150d9a60d16ce1c11a7c178c32c1)
-- [@albertparlys: ada juga yak orang berani ambil data public + copasan source codenya buat final project? 😮‍💨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a7627edf1c0a9464d36ee9ca137a1c8c33c1)
-- [@albertparlys: from Wed Oct 12 until Tue Oct 18 I coded 22 hrs 20 mins towards my @WakaTime goal of coding 30 hrs per week.  #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a7627fd813079a66d66be8c213791c8a38c7)
-- [@albertparlys: seharian ngebut final project buat training 😮‍💨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a7627fd8130f9569d06fe2c5167f16883ac1)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
