@@ -63,11 +63,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: from Wed Nov 09 until Tue Nov 15 I coded 7 hrs 52 mins towards my @WakaTime goal of coding 30 hrs per week #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a7637fd6160a9667d06fe2c7107916893cc7)
 - [@albertparlys: from Wed Nov 02 until Tue Nov 08 I coded 19 hrs 23 mins towards my @WakaTime goal of coding 30 hrs per week.  #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a7637ddc1c069166d36be3c11a73128b33c4)
 - [@albertparlys: from Wed Oct 26 until Tue Nov 01 I coded 16 hrs 46 mins towards my @WakaTime goal of coding 30 hrs per week.  #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a7627ad7110d9167d66ce4cb107b1c8a32c7)
 - [@dota2ti: Tundra Esports are your #TI11 Champions! 🎉 Congratulations to skiter, Nine, 33, Saksa, and Sneyking - dropping just one game during the entire Main Stage and taking the Grand Finals 3-0, they emerge victorious on their quest for the Aegis.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b30a6e090f68e55969266d3f70cea0d6cd0d86ff3ab6a7ddc160d9763d068e6c012)
 - [@albertparlys: Boeing lagi?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76278da140c9462d160e1c3177a118e39c5)
-- [@albertparlys: from Wed Oct 19 until Tue Oct 25 I coded 21 hrs 21 mins towards my @WakaTime goal of coding 30 hrs per week.  #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76278dc150a9664d068e5c7117a158f33cd)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
