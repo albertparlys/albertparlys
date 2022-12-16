@@ -63,11 +63,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: from Wed Dec 07 until Tue Dec 13 I coded 14 hrs 45 mins towards my @WakaTime goal of coding 30 hrs per week #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46a7edf130d9066dd6ce0c2137d1d883fc1)
 - [@albertparlys: 6 hari 100GB gimana cara ngabisinnya? 😅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46a7cd7130b9163d06fe9c3127d168d3ec3)
 - [@albertparlys: Beneran gempa gaes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46a7dd9110a9664d061e6cb107e168c38c3)
 - [@infoBMKG: #Gempa Mag:6.1, 08-Dec-2022 07:50:57WIB, Lok:7.11LS, 106.99BT &lpar;22 km Tenggara KOTA-SUKABUMI-JABAR&rpar;, Kedlmn:104 Km #BMKG Disclaimer:Dlm bbrp menit pertama stlh gmp,parameter gmp dapat berubah dan boleh jadi blm akurat,kecuali tlh dianalisis ulang seismologist](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1631b4eee0cfac3dca9573c6f60ab61368dede68f5a76e74dc140b9b61d061e5c1157b)
 - [@albertparlys: from Wed Nov 30 until Tue Dec 06 I coded 6 hrs 21 mins towards my @WakaTime goal of coding 30 hrs per week #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46a7dda170a9564d06ee1ca107f17893bc4)
-- [@albertparlys: from Wed Nov 23 until Tue Nov 29 I coded 9 hrs 20 mins towards my @WakaTime goal of coding 30 hrs per week #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a7637ad61d079a62d16ce3c3107a148a3ac7)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
