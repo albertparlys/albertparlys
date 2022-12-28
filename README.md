@@ -63,11 +63,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: Documentatiom week 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46a7ada16079462d16be5cb157e158932c3)
+- [@albertparlys: baru sadar gereja sebelah udah renovasi.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46a7ade13089467dd6ee9c11a7e1c823fc1)
 - [@albertparlys: Selamat Natal 🎄](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46a7bd71c069664d26de7ca167a148d39c1)
 - [@albertparlys: Seen &quot;Alice in Borderland&quot; on Netflix yet?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46a7bdb130f9462d361e5ca1b7b10823dc5)
 - [@albertparlys: from Wed Dec 14 until Tue Dec 20 I coded 3 hrs 3 mins towards my @WakaTime goal of coding 30 hrs per week #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46a78d914069265d76be1c4107f158e3fc5)
-- [@albertparlys: from Wed Dec 07 until Tue Dec 13 I coded 14 hrs 45 mins towards my @WakaTime goal of coding 30 hrs per week #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46a7edf130d9066dd6ce0c2137d1d883fc1)
-- [@albertparlys: 6 hari 100GB gimana cara ngabisinnya? 😅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46a7cd7130b9163d06fe9c3127d168d3ec3)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
