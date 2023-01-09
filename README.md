@@ -63,11 +63,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: Nescaffe kaleng kok pada habis ya?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46b7cd61d089b63d660e6c7177c108c33c0)
+- [@albertparlys: ada yg tau cara firewall port ubuntu pake hostname yg ipnya dynamic?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46b7cd912099a60d660e5c51a7b1d8b39c1)
 - [@albertparlys: Emak2 lagi bikin video tiktok, gak bisa keluar rumah deh 🤣](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46b7dda1d069169d26fe3c6117e148f3cc5)
 - [@albertparlys: Keren bener The Zen of Python 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46b7ddf130e9066d56de5c7147a1d823dcd)
 - [@albertparlys: Documentatiom week 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46a7ada16079462d16be5cb157e158932c3)
-- [@albertparlys: baru sadar gereja sebelah udah renovasi.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46a7ade13089467dd6ee9c11a7e1c823fc1)
-- [@albertparlys: Selamat Natal 🎄](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46a7bd71c069664d26de7ca167a148d39c1)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
