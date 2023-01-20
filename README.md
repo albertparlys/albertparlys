@@ -63,11 +63,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@albertparlys: Wah info bmkg fresh look update](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46b78d8130c9461dd61e0cb167b118e3dcd)
 - [@albertparlys: Wahh masih kuliah aja udah begitu....Makin aneh...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46b79d9160d9266d76ae6c6147f1c8b3dc1)
 - [@albertparlys: Nescaffe kaleng kok pada habis ya?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46b7cd61d089b63d660e6c7177c108c33c0)
 - [@albertparlys: ada yg tau cara firewall port ubuntu pake hostname yg ipnya dynamic?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46b7cd912099a60d660e5c51a7b1d8b39c1)
 - [@albertparlys: Emak2 lagi bikin video tiktok, gak bisa keluar rumah deh 🤣](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46b7dda1d069169d26fe3c6117e148f3cc5)
-- [@albertparlys: Keren bener The Zen of Python 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46b7ddf130e9066d56de5c7147a1d823dcd)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
