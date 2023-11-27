@@ -114,6 +114,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=albertparlys&show_icons=true&theme=dracula&text_color=#FFFFFF)" />
 </a>
 <a href="https://github.com/albertparlys/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertparlys&layout=compact&show_icons=true&theme=dracula&text_color=#FFFFFF)" /></a>
+![](https://github-readme-stats.vercel.app/api/wakatime?username=albert&api_domain=wakapi.maritim.go.id&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 <!-- <a href="https://wakatime.com"><img align="left" alt"https://github.com/albertparlys" width="540px" src="https://wakatime.com/share/@albertparlys/d3835728-37e1-4ef1-b1c9-d0d28a277a9a.png" /></a> -->
 
 <!--START_SECTION:waka-->
