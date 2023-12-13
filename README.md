@@ -120,11 +120,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1,065 hrs 42 mins
+Total Time: 1,066 hrs 16 mins
 
-Dart                       305 hrs 23 mins ██████▒░░░░░░░░░░░░░░░░░░   25.32 %
-Python                     241 hrs 47 mins █████░░░░░░░░░░░░░░░░░░░░   20.05 %
-Other                      140 hrs 11 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+Dart                       305 hrs 34 mins ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
+Python                     241 hrs 47 mins █████░░░░░░░░░░░░░░░░░░░░   19.93 %
+Other                      146 hrs 52 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
 ```
 
 <!--END_SECTION:waka-->
