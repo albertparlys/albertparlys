@@ -120,10 +120,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1,067 hrs 45 mins
+Total Time: 1,068 hrs 7 mins
 
-Dart                       305 hrs 34 mins █████▓░░░░░░░░░░░░░░░░░░░   23.11 %
-Other                      254 hrs 20 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
+Dart                       305 hrs 34 mins █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
+Other                      260 hrs 3 mins  █████░░░░░░░░░░░░░░░░░░░░   19.58 %
 ```
 
 <!--END_SECTION:waka-->
