@@ -63,11 +63,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@albertparlys: Wah info bmkg fresh look update](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46b78d8130c9461dd61e0cb167b118e3dcd)
-- [@albertparlys: Wahh masih kuliah aja udah begitu....Makin aneh...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46b79d9160d9266d76ae6c6147f1c8b3dc1)
-- [@albertparlys: Nescaffe kaleng kok pada habis ya?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46b7cd61d089b63d660e6c7177c108c33c0)
-- [@albertparlys: ada yg tau cara firewall port ubuntu pake hostname yg ipnya dynamic?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46b7cd912099a60d660e5c51a7b1d8b39c1)
-- [@albertparlys: Emak2 lagi bikin video tiktok, gak bisa keluar rumah deh 🤣](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46b7dda1d069169d26fe3c6117e148f3cc5)
+- [@albertparlys: from Wed Dec 07 until Tue Dec 13 I coded 14 hrs 45 mins towards my @WakaTime goal of coding 30 hrs per week #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a46a7edf130d9066dd6ce0c2137d1d883fc1)
+- [@albertparlys: from Wed Sep 28 until Tue Oct 04 I coded 26 hrs 51 mins towards my @WakaTime goal of coding 30 hrs per week.  #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76d7ad8140a9162dd6be3c2157f138e39cc)
+- [@albertparlys: Belum ada 5 bulan...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76f7cd71d0a9468dd6be3c31b7b128d32c5)
+- [@albertparlys: Today I coded 1 hr 3 mins towards my @WakaTime goal of coding 1 hr per day.  ✔️ #301DaysOfCode #code #LearnToCode #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76e7cdb12099068dc6be2c4137f158339c1)
+- [@albertparlys: Today I coded 5 mins towards my @WakaTime goal of coding 1 hr per day.  #301DaysOfCode #code #LearnToCode #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b0e4d0f6971b978a7ed4ad0cb15d2d9d9d77f2a76874de100a9160d46ce4c41b7a108f38c7)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
