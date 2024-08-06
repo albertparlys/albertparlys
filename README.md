@@ -122,7 +122,7 @@
 ```text
 Total Time: 1,187 hrs 45 mins
 
-Other                      542 hrs 15 mins ████████░░░░░░░░░░░░░░░░░   31.34 %
+Other                      546 hrs 37 mins ████████░░░░░░░░░░░░░░░░░   31.52 %
 ```
 
 <!--END_SECTION:waka-->
