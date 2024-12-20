@@ -63,11 +63,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@albertparlys: Wah info bmkg fresh look update](https://twitter.com/albertparlys/status/1615773718919405568)
-- [@albertparlys: Wahh masih kuliah aja udah begitu....Makin aneh...](https://twitter.com/albertparlys/status/1614622162274648064)
-- [@albertparlys: Nescaffe kaleng kok pada habis ya?](https://twitter.com/albertparlys/status/1611997833875574785)
-- [@albertparlys: ada yg tau cara firewall port ubuntu pake hostname yg ipnya dynamic?](https://twitter.com/albertparlys/status/1611666903847809024)
-- [@albertparlys: Emak2 lagi bikin video tiktok, gak bisa keluar rumah deh 🤣](https://twitter.com/albertparlys/status/1610599297724350470)
+- [Wah info bmkg fresh look update](https://x.com/albertparlys/status/1615773718919405568)
+- [Wahh masih kuliah aja udah begitu....Makin aneh...](https://x.com/albertparlys/status/1614622162274648064)
+- [Nescaffe kaleng kok pada habis ya?](https://x.com/albertparlys/status/1611997833875574785)
+- [ada yg tau cara firewall port ubuntu pake hostname yg ipnya dynamic?](https://x.com/albertparlys/status/1611666903847809024)
+- [Emak2 lagi bikin video tiktok, gak bisa keluar rumah deh 🤣](https://x.com/albertparlys/status/1610599297724350470)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
