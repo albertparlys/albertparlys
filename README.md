@@ -5,11 +5,11 @@
 
 ## I'm a Data Scientist!!
 
-- 🏢 I’m currently working on Coordinating Ministry of Maritime and Invesment Affairs as Full Stack Developer
+- 🏢 I’m currently working on Coordinating Ministry of Maritime and Investment Affairs as Full Stack Developer
 - 🔭 I had experience working on Town Management as Spatial Data Science
 - 🌱 I’m currently learning python, machine learning, and modeling
 - 👯 I’m looking to collaborate on spatial-related data model and application 
-- ⚡ Fun fact: my undegraduate thesis in Electrical Engineer is Convolutional Neural Network in Music Categorization 😎
+- ⚡ Fun fact: my undergraduate thesis in Electrical Engineering is Convolutional Neural Network in Music Categorization 😎
 
 ### Spotify Playing 🎧
 <table width="100%"> 
@@ -48,7 +48,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
-[<img align="left" alt="Pyhton" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
@@ -80,7 +80,7 @@
 - [&lpar;TI 2018&rpar; Keen Gaming vs iG.V](https://www.youtube.com/watch?v=nR7-xMjHuXQ)
 - [Live Streaming](https://www.youtube.com/watch?v=mdl3u2R0Vbw)
 - [Mobile Legends - NOOB ROAD TO EPIC](https://www.youtube.com/watch?v=TXNwDjgLZyg)
-- [Albert Parlys | #HuaweiIndonesiaIntern2016 #huaweiIndoneisacsr #generasihightech](https://www.youtube.com/watch?v=LJjKmbQITPo)
+- [Albert Parlys | #HuaweiIndonesiaIntern2016 #huaweiIndonesiaCSR #generasihightech](https://www.youtube.com/watch?v=LJjKmbQITPo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCmqAlJqQHp8xjfq2osYBF_w)
