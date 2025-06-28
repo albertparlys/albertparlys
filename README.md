@@ -5,9 +5,9 @@
 
 ## I'm a Data Scientist!!
 
-- 🏢 I’m currently working on Coordinating Ministry of Maritime and Investment Affairs as Full Stack Developer
-- 🔭 I had experience working on Town Management as Spatial Data Science
-- 🌱 I’m currently learning python, machine learning, and modeling
+- 🏢 I’m currently working on the Coordinating Ministry for Infrastructure and Regional Development as a Full Stack Developer
+- 🔭 I have experience working on Town Management as Spatial Data Science and Coordinating Ministry for Maritime and Investment Affairs as a Full Stack Developer
+- 🌱 I’m currently learning Python, machine learning, and modeling
 - 👯 I’m looking to collaborate on spatial-related data model and application 
 - ⚡ Fun fact: my undergraduate thesis in Electrical Engineering is Convolutional Neural Network in Music Categorization 😎
 
