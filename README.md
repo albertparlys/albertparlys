@@ -63,11 +63,11 @@
 ### 📕 Latest Tweets
 
 <!-- TWITTER:START -->
-- [Wah info bmkg fresh look update](https://x.com/albertparlys/status/1615773718919405568)
-- [Wahh masih kuliah aja udah begitu....Makin aneh...](https://x.com/albertparlys/status/1614622162274648064)
-- [Nescaffe kaleng kok pada habis ya?](https://x.com/albertparlys/status/1611997833875574785)
-- [ada yg tau cara firewall port ubuntu pake hostname yg ipnya dynamic?](https://x.com/albertparlys/status/1611666903847809024)
-- [Emak2 lagi bikin video tiktok, gak bisa keluar rumah deh 🤣](https://x.com/albertparlys/status/1610599297724350470)
+- [Wah info bmkg fresh look update](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299b487091b02350f3ea0eddbf1c809918773d2f150f40a68ddd96ff0a56b75d615069760d06de7ca)
+- [Wahh masih kuliah aja udah begitu....Makin aneh...](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299b487091b02350f3ea0eddbf1c809918773d2f150f40a68dcd86af1a36c7fdd130b9564dd68e7c6)
+- [Nescaffe kaleng kok pada habis ya?](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299b487091b02350f3ea0eddbf1c809918773d2f150f40a68d9d761f4aa697ed7130a9667d16fe9c7)
+- [ada yg tau cara firewall port ubuntu pake hostname yg ipnya dynamic?](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299b487091b02350f3ea0eddbf1c809918773d2f150f40a68d9d86ef5ab6a7ed710089b60dc68e3c6)
+- [Emak2 lagi bikin video tiktok, gak bisa keluar rumah deh 🤣](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299b487091b02350f3ea0eddbf1c809918773d2f150f40a68d8db61faa0637ad8160b9065d56ce6c2)
 <!-- TWITTER:END -->
 
 ➡️ [more tweets ...](https://twitter.com/albertparlys)
