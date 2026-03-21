@@ -76,11 +76,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Albert Parlys Live Stream](https://www.youtube.com/watch?v=BTQbzkHYt5o)
-- [Albert Parlys Live Stream](https://www.youtube.com/watch?v=9lalLfS2kvw)
-- [Albert Parlys Live Stream](https://www.youtube.com/watch?v=ekOEhEby_yg)
-- [Albert Parlys Live Stream](https://www.youtube.com/watch?v=zwOJmknI9uU)
-- [Albert Parlys Live Stream](https://www.youtube.com/watch?v=B508bDPhK38)
+- [PUBG: Blindspot! &lpar;Unranked Noob&rpar;](https://www.youtube.com/watch?v=n3gQCoFJxZQ)
+- [PUBG: Blindspot! &lpar;Unranked Noob&rpar;](https://www.youtube.com/watch?v=UrRiU7iSLUI)
+- [PUBG: Blindspot! &lpar;Unranked Noob&rpar;](https://www.youtube.com/watch?v=FOHHUUsxsTU)
+- [PUBG: Blindspot! &lpar;Unranked Noob&rpar;](https://www.youtube.com/watch?v=B508bDPhK38)
+- [PUBG: Blindspot! &lpar;Unranked Noob&rpar;](https://www.youtube.com/watch?v=R6d5WD6oTIE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCmqAlJqQHp8xjfq2osYBF_w)
