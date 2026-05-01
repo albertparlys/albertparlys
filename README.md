@@ -76,10 +76,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PUBG: Blindspot! &lpar;Unranked Noob&rpar;](https://www.youtube.com/watch?v=kfHuitqsKKg)
 - [PUBG: Blindspot! &lpar;Unranked Noob&rpar;](https://www.youtube.com/watch?v=R6d5WD6oTIE)
 - [PUBG: Blindspot! &lpar;Unranked Noob&rpar;](https://www.youtube.com/watch?v=n3gQCoFJxZQ)
 - [PUBG: Blindspot! &lpar;Unranked Noob&rpar;](https://www.youtube.com/watch?v=UrRiU7iSLUI)
-- [PUBG: Blindspot! &lpar;Unranked Noob&rpar;](https://www.youtube.com/watch?v=FOHHUUsxsTU)
 - [PUBG: Blindspot! &lpar;Unranked Noob&rpar;](https://www.youtube.com/watch?v=B508bDPhK38)
 <!-- YOUTUBE:END -->
 
