@@ -27,7 +27,7 @@ jobs:
       - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=albertparlys&layout=compact&langs_count=8&hide_border=true&theme=transparent
+          options: username=albertparlys&layout=compact&langs_count=8&hide_border=true&theme=transparent&exclude_repo=github-readme-stats-ap
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
